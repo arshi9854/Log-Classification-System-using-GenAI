@@ -1,7 +1,5 @@
 # Log-Classification-System-using-GenAI
 
-# Log-Classification-System-using-GenAI
-
 * This is a hybrid log classification system integrating Regex, Senetence Transformers + Logistic Regression, and LLMs to effectively handle logs with varying levels of complexity.
 
 * Deployed a FASTAPI server to preocess log data via RESTful APIs, enabling seamless integration with existing systems
